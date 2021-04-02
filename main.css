@@ -24,10 +24,12 @@
     font-family: 'Crimson Text', serif;
     font-size: 1.5rem;
     color: black;
-
-body {
-    height: 100vh;
-    background:url(assets/freedom.jpg) no-repeat center center fixed;
-    background-size:cover;
 }
 
+body {
+    width: 100%;
+    height: 100vh;
+    background: url(assets/freedom.jpg) no-repeat center;
+    background-size: cover;
+    color: #333;
+}
